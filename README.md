@@ -17,7 +17,7 @@ What this proves
 Run  
 
 ```  
-python demo.py  
+python3 demo.py  
 ```  
 
 Expected behavior:  
@@ -34,3 +34,16 @@ Wingman primitives live here:
 https://github.com/DoctorJamesMichel/project-wingman  
 
 ---
+
+## Example Output
+
+```bash
+python3 demo.py
+-> BLOCKED: upstream responsibility not installed (P-04).
+
+P-04 Responsibility Handshake:
+I confirm I am accountable for outcomes of tool use.
+Type YES to proceed: YES
+[tool] searching for: reversible entanglement battery paper
+```
+
